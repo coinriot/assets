@@ -125,10 +125,6 @@ These include:
 
 ![CoinRiot Animated logo](https://github.com/coinriot/assets/blob/main/hacksmart/CoinRiot-Logo_-CoinRiot-Logo.gif)
 
-<p align="center">
-  <img src="https://github.com/coinriot/assets/blob/main/hacksmart/CoinRiot-Logo_-CoinRiot-Logo.gif" />
-</p>
-
 # Who Is CoinRiot?
 [CoinRiot](https://coinriot.org) organised and promoted the hugely successful CoinParty hackathon in early 2021 on behalf of [Bitcoin Unlimited](https://bitcoinunlimited.info). We are an event-focussed marketing agency with deep crypto knowledge and a long history in supporting Bitcoin Cash projects. Our team also took part in establishing Bitcoin Cash’s industry-leading meetup network which still persists today.
 
