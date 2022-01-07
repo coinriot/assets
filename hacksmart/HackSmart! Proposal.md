@@ -136,3 +136,11 @@ Money is a social tool, which is why we believe the key to generating a powerful
 # Team
 ![CoinRiot Animated logo](https://github.com/coinriot/assets/blob/main/hacksmart/Hacksmart%20Team.png)
 
+# Get In Touch
+Have any questions? You can always get in touch with us at:
+* [Telegram at t.me/coinriot](https://t.me/coinriot)
+* [Twitter @coinriot](https://twitter.com/coinriot)
+* [LinkedIn company/coinriot](https://www.linkedin.com/company/coinriot)
+* [Facebook @coinriot](https://facebook.com/coinriot)
+* [Instagram @coinriotHQ](https://www.instagram.com/CoinRiotHQ/)
+* [Website coinriot.org](https://coinriot.org)
