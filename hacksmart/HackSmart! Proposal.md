@@ -138,7 +138,7 @@ Money is a social tool, which is why we believe the key to generating a powerful
 
 # Get In Touch
 Have any questions? You can always get in touch with us at:
-* [Telegram at t.me/coinriot](https://t.me/coinriot)
+* [Telegram t.me/coinriot](https://t.me/coinriot)
 * [Twitter @coinriot](https://twitter.com/coinriot)
 * [LinkedIn company/coinriot](https://www.linkedin.com/company/coinriot)
 * [Facebook @coinriot](https://facebook.com/coinriot)
