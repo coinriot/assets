@@ -134,8 +134,5 @@ We are helping drive the blockchain industry into the mainstream to increase per
 Money is a social tool, which is why we believe the key to generating a powerful network effect is bringing people together to build strong, long-lasting connections with each other. With our exciting events, we are the rocket fuel that will take the SmartBCH and Bitcoin Cash onto and beyond the moon!
 
 # Team
-Paul - Lightning Catcher
-John - MC BCH
-Stacey - Partymaster
-Amy - Pixel Magician
-Taz - Wizard of Light
+![CoinRiot Animated logo](https://raw.githubusercontent.com/coinriot/assets/main/hacksmart/Hacksmart-Team.png)
+
