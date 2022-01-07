@@ -6,8 +6,8 @@ Smart Bitcoin Cash (smartBCH for short) is a sidechain for Bitcoin Cash and has 
 HackSmart! Is a two week long hackathon aimed at helping blockchain developers learn the technology, connect with peers and hangout in an exciting, remote work environment. The event will take place towards the end of Q1 2022 and will be the best place for any developer to kick start their SmartBCH development while having a chance to win Bitcoin Cash prizes.
 
 # Goals
-* >20 teams
-* >100 attendees
+* \>20 teams
+* \>100 attendees
 * At least 6 judges
 * At least 6 mentors
 * At least $25,000 prize pool.
@@ -50,19 +50,19 @@ HackSmart will also not be all work, work, work. It will also offer a time and p
 # Feedback On Our Previous Hackathon
 We organised aAt the end of the previous [CoinParty hackathon](https://coinparty.org) our attendees very generously spent the time to give us some feedback to make our future events even better. Here’s the results…
 
-*Would you enter a CoinParty hackathon again?*
+**Would you enter a CoinParty hackathon again?**
 100% responded yes.
 
-*How likely are you to recommend the hackathon to someone else?*
+**How likely are you to recommend the hackathon to someone else?**
 The average response was 9.7/10.
 
-*Do you intend to continue to build on your project?*
+**Do you intend to continue to build on your project?**
 76.5% said ‘Yes’ and 23.5% said ‘Maybe’.
 
-*Do you intend to continue to be involved in the Bitcoin Cash community?*
+**Do you intend to continue to be involved in the Bitcoin Cash community?**
 94.1% said ‘Yes’ and 5.9% said ‘Maybe’.
 
-*Some of our favourite responses from people we’re…*
+**Some of our favourite responses from people were…**
 > “I thought the execution was flawless.”
 
 > “It was wonderfully organized, so can't think of anything I would have done differently.”
@@ -71,14 +71,14 @@ The average response was 9.7/10.
 
 > “I liked the fact everything was oraganized, people were comrades, and there was a lot of mentoring from people who understand BCH.”
 
-*What Did We Learn?*
+## What Did We Learn?
 Of course, there’s no such thing as a perfect event, so we found a bunch of things we can improve on for HackSmart.
 
 These include:
-Having a pre-hack week before the full hackathon competition starts to provide a ton of guidance and education to get attendees fully prepared.
-Doing even more to make team-forming an easier process.
-Even more fun and games!
-Make sure that mentors have enough time to provide plenty of support to the teams.
+* Having a pre-hack week before the full hackathon competition starts to provide a ton of guidance and education to get attendees fully prepared.
+* Doing even more to make team-forming an easier process.
+* Even more fun and games!
+* Make sure that mentors have enough time to provide plenty of support to the teams.
 
 # Budget
 * $16,000 = Event organisation and hosting.
@@ -91,7 +91,7 @@ Make sure that mentors have enough time to provide plenty of support to the team
 * $2,000 = Software
 * $25,000 = Prize pool
 * $4,000 = Buffer for budget overruns.
-* $80,000 = TOTAL*
+* **$80,000 = TOTAL**
 
 # Services Provided
 ### Branded graphic assets
@@ -129,6 +129,7 @@ Make sure that mentors have enough time to provide plenty of support to the team
 We are helping drive the blockchain industry into the mainstream to increase personal and financial freedom around the world. To achieve this the industry needs more effective marketing and that is where we fit in. We organise and promote many different event types including; hackathons, meetups, conferences, parties and small festivals.
 
 Money is a social tool, which is why we believe the key to generating a powerful network effect is bringing people together to build strong, long-lasting connections with each other. With our exciting events, we are the rocket fuel that will take the SmartBCH and Bitcoin Cash onto and beyond the moon!
+
 # Team
 Paul - Lightning Catcher
 John - MC BCH
